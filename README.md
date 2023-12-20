@@ -1,22 +1,14 @@
-#### Hello, world! 👋
+#### Hey there! 👋
 
-I'm Fahmy. In the expansive universe of code, I'm constantly exploring and learning, always seeking the next challenge. 🚀
+I'm Fahmy. I'm all about diving deep into the coding world, always on the hunt for the next big thing. 🚀
 
 ##### 💡 I Believe In...
 
-The power of technology to drive change, to solve problems, and to create new possibilities. Code is more than a tool for me – it's a creative medium 🎨, an experimental lab 🔬, a space for growth and innovation.
+How tech can really shake things up, solve problems, and open up new doors. For me, coding isn't just a skill – it's a way to get creative 🎨, try new things 🔬, and keep growing and innovating.
 
-##### 🌱 Passionate About...
+---
 
-Continuous learning and improvement, I'm committed to the process, navigating the highs, the lows, and everything in between. I'm here to learn, to contribute, and to make a difference, one line of code at a time. 💻
-
-##### 🤙 Let's Connect...
-
-If you share a similar passion for coding and relentless improvement, we're on the same wavelength. Ready to embark on this coding journey together? Let's do this! 🙌
-
-##### 🎭 Fun Fact...
-
-Did you know I'm as comfortable with a chef's knife as I am with a keyboard? I love exploring new recipes and treating my friends to home-cooked meals. My signature dish? A hearty meat pie that's sure to impress! 🥧
+#NodeJS #TypeScript #JavaScript #React #ReactNative
 
 <!--
 **fahmyfarahat/fahmyfarahat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
